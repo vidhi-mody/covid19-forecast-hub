@@ -6,7 +6,7 @@ website_url: https://cloud.google.com/blog/products/ai-machine-learning/google-c
 license: other
 team_model_designation: primary
 ensemble_of_hub_models: false
-methods: Our model improves upon standard compartmental models by using temporally and spatially rich data, and integrating covariate encodings into compartment transitions via end-to-end learning. xxx
+methods: Our model improves upon standard compartmental models by using temporally and spatially rich data, and integrating covariate encodings into compartment transitions via end-to-end learning. xxxx
 citation: https://arxiv.org/abs/2008.00646
 
 
