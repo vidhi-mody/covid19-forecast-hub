@@ -1,6 +1,6 @@
 team_name: Columbia University
-model_name: select
-model_abbr: CU-select
+model_name: modelA
+model_abbr: CU-modelA
 model_contributors: Sen Pei, Teresa Yamana, Sasikiran Kandula, Wan Yang, Marta Galanti,
   Jeffrey Shaman <jls106@cumc.columbia.edu>
 website_url: https://blogs.cuit.columbia.edu/jls106/publications/covid-19-findings-simulations/
