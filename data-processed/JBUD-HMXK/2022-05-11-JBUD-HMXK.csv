@@ -1,0 +1,17 @@
+location,forecast_date,target_end_date,target,type,quantile,value
+US,2022-05-11,2022-05-14,1 wk ahead inc case,point,,537532
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.025,310963
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.1,370500
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.25,433618
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.5,537532
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.75,672106
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.9,796897
+US,2022-05-11,2022-05-14,1 wk ahead inc case,quantile,0.975,965746
+US,2022-05-11,2022-05-21,2 wk ahead inc case,point,,649265
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.025,260148
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.1,339149
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.25,440194
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.5,649265
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.75,970518
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.9,1282352
+US,2022-05-11,2022-05-21,2 wk ahead inc case,quantile,0.975,1714990
